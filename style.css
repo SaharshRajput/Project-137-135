@@ -30,3 +30,7 @@ canvas
     text-align: center;
     position: fixed;
 }
+.status
+{
+    bottom: 30px;
+}
